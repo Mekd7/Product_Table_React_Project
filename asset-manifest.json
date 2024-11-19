@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Product_Table_React_Project/static/css/main.e6c13ad2.css",
+    "main.js": "/Product_Table_React_Project/static/js/main.7a881fb4.js",
+    "static/js/453.a96e0780.chunk.js": "/Product_Table_React_Project/static/js/453.a96e0780.chunk.js",
+    "index.html": "/Product_Table_React_Project/index.html",
+    "main.e6c13ad2.css.map": "/Product_Table_React_Project/static/css/main.e6c13ad2.css.map",
+    "main.7a881fb4.js.map": "/Product_Table_React_Project/static/js/main.7a881fb4.js.map",
+    "453.a96e0780.chunk.js.map": "/Product_Table_React_Project/static/js/453.a96e0780.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.7a881fb4.js"
+  ]
+}
